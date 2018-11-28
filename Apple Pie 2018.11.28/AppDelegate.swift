@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Apple Pie 2018.11.28
+//  Apple Pie 2018.11.27
 //
-//  Created by Ира  on 28/11/2018.
-//  Copyright © 2018 Ira Zhilyaeva. All rights reserved.
+//  Created by Vdovin Aleksey on 27/11/2018.
+//  Copyright © 2018 Vdovin Aleksey. All rights reserved.
 //
 
 import UIKit
